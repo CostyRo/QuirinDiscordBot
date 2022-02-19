@@ -1,0 +1,5 @@
+.env
+json/*.json
+funfacts/*.txt
+cogs/__pycache__
+__pycache__
